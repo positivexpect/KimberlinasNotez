@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FFB6C1" />
+  <path d="M256 400 C200 350 100 280 100 200 C100 120 180 80 256 180 C320 80 412 120 412 200 C412 280 320 350 256 400 Z" 
+        fill="none" stroke="#FFD700" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Sparkles -->
+  <circle cx="150" cy="150" r="8" fill="#FFD700" />
+  <circle cx="350" cy="120" r="10" fill="#FFD700" />
+  <circle cx="400" cy="250" r="7" fill="#FFD700" />
+  <circle cx="300" cy="350" r="9" fill="#FFD700" />
+  <circle cx="200" cy="300" r="8" fill="#FFD700" />
+  <circle cx="100" cy="350" r="6" fill="#FFD700" />
+  <circle cx="250" cy="100" r="10" fill="#FFD700" />
+  <circle cx="450" cy="180" r="8" fill="#FFD700" />
+  <circle cx="80" cy="220" r="9" fill="#FFD700" />
+  <circle cx="180" cy="400" r="7" fill="#FFD700" />
+  <circle cx="320" cy="420" r="8" fill="#FFD700" />
+  <circle cx="420" cy="350" r="6" fill="#FFD700" />
+</svg> 
